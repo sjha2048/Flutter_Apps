@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551881884626",
+    "firebase_url": "https://zingychat.firebaseio.com",
+    "project_id": "zingychat",
+    "storage_bucket": "zingychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551881884626:android:034fe710bc3270c5",
+        "android_client_info": {
+          "package_name": "com.example.zingychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551881884626-flc2ivgc1ca0ahrg5pf95am0bbt9fq4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekdsgv_D21ay4Grf5KhtIIfTd1lq4MP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551881884626-flc2ivgc1ca0ahrg5pf95am0bbt9fq4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551881884626-vusua5ro2n6n7tvfncbqv5ok69uvhbla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sahil.zingychat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
